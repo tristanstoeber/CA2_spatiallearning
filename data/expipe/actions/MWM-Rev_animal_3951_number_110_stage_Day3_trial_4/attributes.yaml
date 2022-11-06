@@ -1,0 +1,7 @@
+registered: '2021-11-18T14:55:31'
+type: MWM
+entities:
+- '3951'
+datetime: '2012-03-04T16:38:02'
+data:
+  position_data: /home/jovyan/work/data/expipe/actions/MWM-Rev_animal_3951_number_110_stage_Day3_trial_4/position_data.pckl

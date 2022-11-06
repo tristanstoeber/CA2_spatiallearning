@@ -1,0 +1,10 @@
+name: Tank
+info:
+  centre:
+    x: '395'
+    y: '369'
+  boundingbox:
+    x: '33'
+    y: '11'
+    w: '725'
+    h: '717'

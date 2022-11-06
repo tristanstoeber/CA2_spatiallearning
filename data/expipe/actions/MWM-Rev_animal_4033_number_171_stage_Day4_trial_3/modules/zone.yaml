@@ -1,0 +1,50 @@
+NE:
+  name: NE
+  centre:
+    x: '547'
+    y: '219'
+  boundingbox:
+    x: '396'
+    y: '12'
+    w: '358'
+    h: '362'
+NW:
+  name: NW
+  centre:
+    x: '242'
+    y: '219'
+  boundingbox:
+    x: '37'
+    y: '12'
+    w: '358'
+    h: '362'
+SE:
+  name: SE
+  centre:
+    x: '546'
+    y: '523'
+  boundingbox:
+    x: '396'
+    y: '375'
+    w: '358'
+    h: '351'
+SW:
+  name: SW
+  centre:
+    x: '243'
+    y: '523'
+  boundingbox:
+    x: '37'
+    y: '375'
+    w: '358'
+    h: '351'
+Platform:
+  name: Platform
+  centre:
+    x: '552'
+    y: '226'
+  boundingbox:
+    x: '518'
+    y: '192'
+    w: '70'
+    h: '69'
