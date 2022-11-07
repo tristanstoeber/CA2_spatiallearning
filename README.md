@@ -8,10 +8,10 @@ docker run -it -d -p 8888:8888 -e NB_USER=jovyan -e CHOWN_HOME=yes -e CHOWN_EXTR
 with `/path/to/repo/` adjusted to respective path.
 
 ## Data
-Behavioral data is stored in `/data/expipe/` as an expipe project [[1]](#1).
-
-"...the **go to** statement should be abolished..." .
-
+Behavioral data are stored in `/data/expipe/` as an expipe project.
+Data have been received as ANY-maze szd file.
+After using the ANY-maze software to export to xml files, we used expipe to store experimental data together with metadata [[1]](#1).
+If you use the data for further analysis, please cite their original publication [[2]](#2).
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -28,3 +28,6 @@ This work is licensed under a
 ## References
 <a id="1">[1]</a> 
 https://expipe.readthedocs.io/en/latest/
+
+<a id="2">[2]</a> 
+Hitti & Siegelbaum, 2014, Nature
