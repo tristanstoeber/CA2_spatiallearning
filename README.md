@@ -11,7 +11,7 @@ with `/path/to/repo/` adjusted to respective path.
 Behavioral data are stored in `/data/expipe/` as an expipe project.
 Data have been received as ANY-maze szd file.
 After using the ANY-maze software to export to xml files, we used expipe to store experimental data together with metadata [[1]](#1).
-If you use the data for further analysis, please cite their original publication [[2]](#2).
+If you use the data for further analysis, please also cite their original publication [[2]](#2).
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
