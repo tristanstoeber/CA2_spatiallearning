@@ -8,9 +8,9 @@ docker run -it -d -p 8888:8888 -e NB_USER=jovyan -e CHOWN_HOME=yes -e CHOWN_EXTR
 with `/path/to/repo/` adjusted to respective path.
 
 ## Data
-Behavioral data is stored in `/data/expipe/` as an expipe project [[1]](#1).
+Behavioral data is stored in `/data/expipe/` as an expipe project.
 Data has been received as ANY-maze szd file.
-After using the ANY-maze software to export the data to xml files, we used expipe to store experimental data together with metadata.
+After using the ANY-maze software to export the data to xml files, we used expipe to store experimental data together with metadata [[1]](#1).
 If you use the data for further analyis, please cite their original publication [[2]](#2).
 
 ## License
